@@ -8,15 +8,14 @@ O Nuker é uma rede social projetada para a comunidade do mercado financeiro. El
 
 ## Funcionalidades
 
-- **Criar e Gerenciar Carteiras:** Os usuários podem criar e acompanhar suas carteiras de investimento, monitorar seu desempenho e analisar dados históricos.
 
-- **Seguir Influenciadores do Mercado:** Os usuários podem seguir seus analistas, traders e especialistas financeiros favoritos para receber atualizações e insights diretamente em seu feed.
-
-- **Fóruns de Discussão:** O Nuker oferece fóruns de discussão dedicados a vários tópicos financeiros, permitindo que os usuários participem de conversas significativas.
-
-- **Agregador de Notícias:** Fique informado com as últimas notícias e atualizações financeiras de fontes confiáveis, tudo convenientemente agregado dentro da plataforma.
-
-- **Dados de Mercado em Tempo Real:** Acesse dados financeiros de mercado em tempo real, incluindo preços de ações, valores de criptomoedas e outros indicadores-chave.
+-	**Plataforma de investidores**: Fornecer um espaço dedicado aos investidores, onde possam se conectar, trocar experiências, reagir a ativos financeiros, comentar, e compartilhar suas ideias. Nossa proposta é conectar e o investidor ao ativo.
+-	**Conteúdo especializado**: Oferecer contações em tempo real tanto do mercado fiduciário quanto de criptomoedas, além de artigos e insights de especialistas financeiros os usuários a tomarem decisões mais embasadas.
+-	**Ferramenta de engajamento social**: Queremos focar no engajamento social entre os investidores. Para isso, queremos que a rede esteja repleta de interações sociais e medições muito claras para que o investidor possa reagir corretamente.
+-	**Conteúdo em vídeo**: os insights em vídeo serão permitidos apenas por aqueles que passarem pelo processo Nuker Atomic Verification, que é um processo de verificação manual para constatar que ele/ela é um analista certificado pelo órgão responsável de seu país.
+-	**Busca Inteligente**: um sistema de busca de inteligente e que aprenda com a própria rede. Ele rastreia a web por notícias, dividindo-a em pedaços, e aprendendo com as palavras-chave sua relevância, e após isso, ranqueia este conteúdo para o investidor no aplicativo.
+-	**Selos de Comprometimento**: vamos premiar determinadas empresas e criptomoedas que se comprometerem com o meio ambiente, e estivem comprometidas, por exemplo, com a zero emissão de carbono. 
+-	**Zero Carbon**: Somos carbono zero desde nossa fundação.
 
 ## Redes Sociais
 
