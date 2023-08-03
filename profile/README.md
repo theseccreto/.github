@@ -20,11 +20,12 @@ O Nuker é uma rede social projetada para a comunidade do mercado financeiro. El
 
 ## Redes Sociais
 
+![Nuker_Completo](https://github.com/nukerapp/.github/assets/57725054/bcc4e0be-90de-48de-8ac2-93519e6655da)
+
+
 Apoie o projeto seguindo-nos na redes sociais:
 
-Instagram: @nukerapp
-Facebook: @nukerapp
-Twitter: @nukerapp
-LinkedIn: @nukerapp
-Threads: @nukerapp
-
+[![GitHub followers](https://img.shields.io/github/followers/nukerapp.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nukerapp?tab=followers)
+[![Twitter followers](https://img.shields.io/twitter/follow/nukerapp.svg?style=social&label=Follow)](https://twitter.com/nukerapp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=nukerapp&logoColor=white&link=https://www.linkedin.com/in/nukerapp/)](https://www.linkedin.com/in/nukerapp/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/nukerapp/)](https://www.instagram.com/nukerapp/)
