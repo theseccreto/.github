@@ -1,6 +1,6 @@
 # Nuker - Seu perfil de investidor na web
 
-![Logo do Nuker](https://imgur.com/ekGsmVB)
+![_890e6e4a-84c7-4ef1-8b98-7e00876c6046](https://github.com/nukerapp/.github/assets/57725054/4264be48-a588-4a0a-b4fc-0e090ee6c3d2)
 
 ## Visão Geral
 
