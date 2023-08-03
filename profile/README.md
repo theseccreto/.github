@@ -1,6 +1,6 @@
 # Nuker - Rede Social para o Mercado Financeiro
 
-![Logo do Nuker](https://imgur.com/a/8Dc73DU) 
+![Logo do Nuker](https://imgur.com/ekGsmVB)
 
 ## Visão Geral
 
@@ -18,16 +18,13 @@ O Nuker é uma rede social projetada para a comunidade do mercado financeiro. El
 
 - **Dados de Mercado em Tempo Real:** Acesse dados financeiros de mercado em tempo real, incluindo preços de ações, valores de criptomoedas e outros indicadores-chave.
 
-## Como Começar
+## Redes Sociais
 
-### Pré-requisitos
+Apoie o projeto seguindo-nos na redes sociais:
 
-- Node.js e npm instalados em seu sistema.
+Instagram: @nukerapp
+Facebook: @nukerapp
+Twitter: @nukerapp
+LinkedIn: @nukerapp
+Threads: @nukerapp
 
-### Instalação
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-nome-de-usuario/nuker.git
-   cd nuker
