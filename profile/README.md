@@ -1,4 +1,4 @@
-# Nuker - Rede Social para o Mercado Financeiro
+# Nuker - Seu perfil de investidor na web
 
 ![Logo do Nuker](https://imgur.com/ekGsmVB)
 
