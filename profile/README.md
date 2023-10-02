@@ -20,7 +20,7 @@ O Nuker é uma rede social projetada para a comunidade do mercado financeiro. El
 -	**Selos de Comprometimento**: vamos premiar determinadas empresas e criptomoedas que se comprometerem com o meio ambiente, e estivem comprometidas, por exemplo, com a zero emissão de carbono. 
 -	**Zero Carbon**: Somos carbono zero desde nossa fundação.
 
-## Nossa Interface
+## Interface
 
 ![image](https://github.com/nukerapp/.github/assets/57725054/ab3ed006-2c4e-4d88-9a1c-47400d288399)
 
