@@ -22,7 +22,7 @@ Foxx is a brazilian social network designed for the financial market community. 
 
 Support the community:
 
-[GitHub followers](https://github.com/nukerapp?tab=followers)
-[Twitter followers](https://twitter.com/nukerapp)
-[LinkedIn](https://www.linkedin.com/in/nukerapp/)
-[Instagram](https://www.instagram.com/nukerapp/)
+[![GitHub followers](https://img.shields.io/github/followers/nukerapp.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nukerapp?tab=followers)
+[![Twitter followers](https://img.shields.io/twitter/follow/nukerapp.svg?style=social&label=Follow)](https://twitter.com/nukerapp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=nukerapp&logoColor=white&link=https://www.linkedin.com/in/nukerapp/)](https://www.linkedin.com/in/nukerapp/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/nukerapp/)](https://www.instagram.com/nukerapp/)
