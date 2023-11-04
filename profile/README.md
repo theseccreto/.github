@@ -13,7 +13,8 @@ Foxx is a brazilian social network designed for the financial market community. 
 - **Active Monitoring**: you have real-time data on your favorite assets, all the time on the platform. We are connected to the main exchanges so that there is no information spread.
 - **Price Alert**: Set price alert. Let's assume that some of your assets hit some mark positively or negatively. It's time to post on Foxx!
 - **Commitment Badges**: We will reward certain companies and cryptocurrencies that commit to environmental initiatives, such as zero carbon emissions.
-- **Zero Carbon**: We have been carbon-neutral since our foundation. [We offset our carbon footprint with our tree planting partner.](https://onetreeplanted.org) 
+- **Zero Carbon**: We have been carbon-neutral since our foundation. [We offset our carbon footprint with our tree planting partner.](https://onetreeplanted.org)
+- **Many many more features! Come meet us.. As for a invite code.**
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=cd7955b9fab0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
