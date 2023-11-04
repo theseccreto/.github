@@ -1,6 +1,7 @@
 # Foxx - Seu perfil de investidor na web
 
-![_890e6e4a-84c7-4ef1-8b98-7e00876c6046](https://github.com/nukerapp/.github/assets/57725054/4264be48-a588-4a0a-b4fc-0e090ee6c3d2)
+![Black_bg_Foxx](https://github.com/foxxnetworking/.github/assets/57725054/45587423-74f0-417e-9bb5-4d8041d6e62f)
+
 
 ## Visão Geral
 
