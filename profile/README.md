@@ -8,11 +8,10 @@ Foxx is a brazilian social network designed for the financial market community. 
 
 ## Features
 
-- **Investor Platform**: Provide a dedicated space for investors to connect, exchange experiences, react to financial assets, comment, and share their ideas. Our proposition is to connect the investor with the asset.
-- **Specialized Content**: Offer real-time quotations for both the fiat and cryptocurrency markets, along with articles and insights from financial experts to help users make informed decisions.
-- **Social Engagement Tool**: Focus on social engagement among investors. We want the network to be full of social interactions and clear metrics to help investors react correctly.
-- **Video Content**: Video insights will be allowed only for those who pass the Foxx Atomic Verification process, which is a manual verification process to confirm that they are certified analysts by the responsible authority in their country.
-- **Smart Search**: An intelligent search system that learns from the network itself. It scrapes the web for news, breaks it down, and learns the relevance of keywords, ranking the content for the investor in the app.
+- **Posts**: you can post investment insights on a specialized platform whether for everyone to see, a community, or a select group of friends.
+- **Reactions**: Reactions are really intuitive for the investment environment. You can select between 5 reactions that have to do with stock market movements.
+- **Active Monitoring**: you have real-time data on your favorite assets, all the time on the platform. We are connected to the main exchanges so that there is no information spread.
+- **Price Alert**: Set price alert. Let's assume that some of your assets hit some mark positively or negatively. It's time to post on Foxx!
 - **Commitment Badges**: We will reward certain companies and cryptocurrencies that commit to environmental initiatives, such as zero carbon emissions.
 - **Zero Carbon**: We have been carbon-neutral since our foundation. [We offset our carbon footprint with our tree planting partner.](https://onetreeplanted.org) 
 
