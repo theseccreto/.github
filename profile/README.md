@@ -1,4 +1,4 @@
-# Foxx - Your investors Profile in web
+# Foxx - Your investors profile in web
 
 ![Black_bg_Foxx](https://github.com/foxxnetworking/.github/assets/57725054/45587423-74f0-417e-9bb5-4d8041d6e62f)
 
