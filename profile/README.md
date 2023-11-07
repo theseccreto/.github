@@ -1,6 +1,7 @@
 # Foxety - Your investors profile in web
 
-![Black_bg_Foxety](https://github.com/Foxetynetworking/.github/assets/57725054/bfeff7a5-b585-46e0-b875-3d459b687305)
+![Black_bg_Foxx](https://github.com/foxxnetworking/.github/assets/57725054/ad936ddd-2019-4356-bf89-f8cd62592e49)
+
 
 ## Overview
 
