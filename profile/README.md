@@ -23,7 +23,7 @@ foxety is a brazilian social network designed for the financial market community
 
 Support the community:
 
-[![GitHub followers](https://img.shields.io/github/followers/Foxetynetworking.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Foxetynetworking?tab=followers)
-[![Twitter followers](https://img.shields.io/twitter/follow/Foxetynetworking.svg?style=social&label=Follow)](https://twitter.com/Foxetynetworking)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Foxetysocial&logoColor=white&link=https://www.linkedin.com/in/Foxetysocial/)](https://www.linkedin.com/in/Foxetysocial/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/Foxetynetworking/)](https://www.instagram.com/Foxetynetworking/)
+[![GitHub followers](https://img.shields.io/github/followers/thefoxety.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/thefoxety?tab=followers)
+[![Twitter followers](https://img.shields.io/twitter/follow/thefoxety.svg?style=social&label=Follow)](https://twitter.com/thefoxety)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=thefoxety&logoColor=white&link=https://www.linkedin.com/in/thefoxety/)](https://www.linkedin.com/in/thefoxety/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/thefoxety/)](https://www.instagram.com/thefoxety/)
