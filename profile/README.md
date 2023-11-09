@@ -1,18 +1,18 @@
-# Foxety - Your investors profile in web
+# foxety - Your investors profile in web
 
 ![Black_bg_Foxx](https://github.com/foxxnetworking/.github/assets/57725054/ad936ddd-2019-4356-bf89-f8cd62592e49)
 
 
 ## Overview
 
-Foxety is a brazilian social network designed for the financial market community. Its aim is to provide a platform where investors, traders, and finance enthusiasts can connect, share ideas, and discuss the latest market trends. With Foxety, users can create and manage investment portfolios, follow market influencers, engage in discussions, and stay updated with relevant financial news.
+foxety is a brazilian social network designed for the financial market community. Its aim is to provide a platform where investors, traders, and finance enthusiasts can connect, share ideas, and discuss the latest market trends. With foxety, users can create and manage investment portfolios, follow market influencers, engage in discussions, and stay updated with relevant financial news.
 
 ## Features
 
 - **Posts**: you can post investment insights on a specialized platform whether for everyone to see, a community, or a select group of friends.
 - **Reactions**: Reactions are really intuitive for the investment environment. You can select between 5 reactions that have to do with stock market movements.
 - **Active Monitoring**: you have real-time data on your favorite assets, all the time on the platform. We are connected to the main exchanges so that there is no information spread.
-- **Price Alert**: Set price alert. Let's assume that some of your assets hit some mark positively or negatively. It's time to post on Foxety!
+- **Price Alert**: Set price alert. Let's assume that some of your assets hit some mark positively or negatively. It's time to post on foxety!
 - **Commitment Badges**: We will reward certain companies and cryptocurrencies that commit to environmental initiatives, such as zero carbon emissions.
 - **Zero Carbon**: We have been carbon-neutral since our foundation. [We offset our carbon footprint with our tree planting partner.](https://onetreeplanted.org)
 - **Many many more features! Come meet us.. As for a invite code.**
