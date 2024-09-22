@@ -1,4 +1,4 @@
-# foxety - interests based profile in web
+# pix2cash - livestrem qrcode payments solution 
 
 ![Black_bg_Foxx](https://github.com/foxxnetworking/.github/assets/57725054/ad936ddd-2019-4356-bf89-f8cd62592e49)
 
