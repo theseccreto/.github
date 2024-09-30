@@ -1,11 +1,11 @@
-# pix2cash - livestrem qrcode payments solution 
+# anonyma - privacy driven network
 
 ![Black_bg_Foxx](https://github.com/foxxnetworking/.github/assets/57725054/ad936ddd-2019-4356-bf89-f8cd62592e49)
 
 
 ## Overview
 
-foxety is a brazilian social network designed for people that are comfortable talking about subjetcts with there own societies. Its aim is to provide a platform where anyone can connect, share ideas, and discuss the latest trends. With foxety (witch means fox society), users can create and manage there portfolios, follow influencers, engage in discussions, and stay updated with relevant subjets.
+anonyma is a brazilian social network designed for people that are comfortable talking about subjetcts with there own societies. Its aim is to provide a platform where anyone can connect, share ideas, and discuss the latest trends. With foxety (witch means fox society), users can create and manage there portfolios, follow influencers, engage in discussions, and stay updated with relevant subjets.
 
 ## Features
 
