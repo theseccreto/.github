@@ -1,4 +1,4 @@
-** Seccreto - Privacy Driven Network ** 
+* Seccreto - Privacy Driven Network * 
 
 ** Overview **
 
