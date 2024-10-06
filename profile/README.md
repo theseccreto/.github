@@ -1,27 +1,44 @@
-# anonyma - privacy driven network
+** Seccreto - Privacy Driven Network ** 
 
-![Black_bg_Foxx](https://github.com/foxxnetworking/.github/assets/57725054/ad936ddd-2019-4356-bf89-f8cd62592e49)
+** Overview **
 
+** Seccreto ** is a Brazilian social network designed for people who don't feel comfortable with their data being leaked on other networks. However, they want privacy in their conversations for relevant topics with the people they care about the most or even to meet new people. The goal of the platform is to connect, share ideas and discuss the latest trends in a safe and private way. With ** Seccreto **, users can create and manage their portfolios, follow, participate in discussions and stay up to date with the topics of greatest interest, all while maintaining a high level of anonymity and security through advanced encryption.
 
-## Overview
+** Features **
 
-anonyma is a brazilian social network designed for people that are comfortable talking about subjetcts with there own societies. Its aim is to provide a platform where anyone can connect, share ideas, and discuss the latest trends. With foxety (witch means fox society), users can create and manage there portfolios, follow influencers, engage in discussions, and stay updated with relevant subjets.
+Secure Communication
 
-## Features
+- End-to-End Encryption (E2EE): All private messages, voice and video calls are encrypted end-to-end, ensuring that only the sender and recipient can access the content.
 
-- **Posts**: you can post insights on a society platform whether for everyone to see things releted by subjetcs, a community, or a select group of persons.
-- **Sell Your Content**: as far we understand, you can be a professional talking about something. Like cooking? Why not to open your own society?
-- **Reactions**: Reactions are really intuitive for the any environment. But you may not fell always represented by some stuck reactions in some networks. So, why not to personilize your own reactions within your profiles through subjecs? 
-- **Active Monitoring**: you have real-time data on your favorite subjects, all the time on the platform. We are connected to the main rss providers so that there is no information spread.
-- **Commitment Badges**: We will reward certain users and societys by there commitments with truth, enviroment, and nice initiatives.
-- **Zero Carbon**: We have been carbon-neutral since our foundation. [We offset our carbon footprint with our tree planting partner.](https://onetreeplanted.org)
-- **Many many more features! Come meet us.. As for a invite code.**
+- Encrypted Voice and Video Calls: Support for high-quality calls with robust encryption.
 
-## Social Media
+- Self-Destructing Messages: Option to set a time after which messages are automatically deleted from both devices.
 
-Support the community:
+- Secure and Encrypted Text Messages: Support for traditional and rich text messages (images, videos, documents), all protected by encryption.
 
-[![GitHub followers](https://img.shields.io/github/followers/thefoxety.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/thefoxety?tab=followers)
-[![Twitter followers](https://img.shields.io/twitter/follow/thefoxety.svg?style=social&label=Follow)](https://twitter.com/thefoxety)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=thefoxety&logoColor=white&link=https://www.linkedin.com/in/thefoxety/)](https://www.linkedin.com/in/thefoxety/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/thefoxety/)](https://www.instagram.com/thefoxety/)
+** Social **
+
+- Thoughts: Users can create public or private posts, share multimedia content, and interact with other users through likes, reactions, and shares. You define who can access them. Those using a VPN, Onion network, etc. Ordinary networks, don't even get in.
+
+- Comments and Replies: Nested comment structure for in-depth discussions, while maintaining privacy and security of interactions.
+
+- User Profiles: Minimalist profiles with user-controlled information, such as profile picture, bio, and interests, maintaining maximum privacy.
+
+- Groups and Topics: Organization of content by groups and topics, allowing users to follow specific areas of interest, such as "Technology", "Health", "Sports", etc.
+
+- Personalized Feed: Recommendation algorithm based on weights that considers interactions such as likes, views, time to reach interactions, and other factors to personalize each user's feed.
+
+** Hack The Fucking System **
+
+- Decentralization: Use of P2P networks or blockchain to store data in a distributed manner, reducing the risk of centralization and increasing resilience. So unfortunately, even if we wanted to, we can't be completely offline.
+
+- Distributed Key Servers: Decentralized management of encryption keys, ensuring that no central entity can access user data.
+
+** Keep Control **
+
+- Data Ownership: Users have full control over their data, being able to decide what to share, with whom, and how.
+
+- Data Portability: Facilitate the export and import of data securely.
+
+Much... Much More... Wait for us... This is just an answer.
+
