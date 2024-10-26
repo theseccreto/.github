@@ -1,46 +1,72 @@
-**Seccreto - Privacy Driven Network**
+
+![_08170ebb-2c62-42f9-b09e-c43edcd98b50](https://github.com/user-attachments/assets/638c264b-3d25-48ff-bce1-17ccb4922993)
 
 
 
-**Overview**
+# 🌐 **Seccreto - Um aplicativo de mensagens razoavelmente seguro**
 
-**Seccreto** is a Brazilian social network designed for people who don't feel comfortable with their data being leaked on other networks. However, they want privacy in their conversations for relevant topics with the people they care about the most or even to meet new people. The goal of the platform is to connect, share ideas and discuss the latest trends in a safe and private way. With **Seccreto**, users can create and manage their portfolios, follow, participate in discussions and stay up to date with the topics of greatest interest, all while maintaining a high level of anonymity and security through advanced encryption.
+---
 
-**Features**
+## 📝 **Visão Geral**
 
-Secure Communication
+**Seccreto** é uma rede social brasileira criada para aqueles que valorizam a privacidade e a segurança de seus dados. Utilizando criptografia **pós-quântica** em todas as suas funcionalidades, o Seccreto é construído com o protocolo proprietário **PQXMP** (Post-Quantum Extensible Messaging Protocol), garantindo segurança contra ameaças futuras de computação quântica. A plataforma foi desenvolvida para usuários que desejam conversar sobre tópicos relevantes ou explorar novas conexões de forma segura e anônima, personalizando suas experiências com um alto nível de segurança.
 
-- End-to-End Encryption (E2EE): All private messages, voice and video calls are encrypted end-to-end, ensuring that only the sender and recipient can access the content.
+---
 
-- Encrypted Voice and Video Calls: Support for high-quality calls with robust encryption.
+## 🔒 **Funcionalidades**
 
-- Self-Destructing Messages: Option to set a time after which messages are automatically deleted from both devices.
+### 🔐 **Comunicação Segura**
 
-- Secure and Encrypted Text Messages: Support for traditional and rich text messages (images, videos, documents), all protected by encryption.
+- **🔒 Criptografia de Ponta a Ponta (E2EE) Pós-Quântica**: Todas as mensagens privadas, chamadas de voz e vídeo utilizam criptografia baseada no protocolo PQXMP, garantindo segurança máxima contra ataques, inclusive com a chegada de computadores quânticos.
 
-**Social**
+- **📞 Chamadas de Voz e Vídeo Criptografadas**: Suporte para chamadas de alta qualidade com criptografia pós-quântica, assegurando privacidade durante toda a comunicação.
 
-- Thoughts: Users can create public or private posts, share multimedia content, and interact with other users through likes, reactions, and shares. You define who can access them. Those using a VPN, Onion network, etc. Ordinary networks, don't even get in.
+- **⏰ Mensagens Autodestrutivas**: Possibilidade de configurar um tempo para que as mensagens sejam automaticamente deletadas após a leitura, com proteção criptográfica avançada.
 
-- Comments and Replies: Nested comment structure for in-depth discussions, while maintaining privacy and security of interactions.
+- **💬 Mensagens Seguras e Criptografadas**: Envio de textos, imagens, vídeos e documentos, todos protegidos por criptografia pós-quântica, com as chaves armazenadas localmente no dispositivo do usuário.
 
-- User Profiles: Minimalist profiles with user-controlled information, such as profile picture, bio, and interests, maintaining maximum privacy.
+### 🏢 **Funcionalidades Empresariais**
 
-- Groups and Topics: Organization of content by groups and topics, allowing users to follow specific areas of interest, such as "Technology", "Health", "Sports", etc.
+- **🤖 Chatbots Personalizados para Empresas**: Empresas podem criar chatbots interativos que utilizam criptografia pós-quântica para garantir que todas as interações e transações sejam seguras e privadas.
 
-- Personalized Feed: Recommendation algorithm based on weights that considers interactions such as likes, views, time to reach interactions, and other factors to personalize each user's feed.
+- **🎥 Perfis Empresariais com Vídeos Curtos**: Perfis empresariais podem exibir vídeos curtos de produtos, utilizando o protocolo PQXMP para garantir que as interações e transações, como reservas ou compras, ocorram de maneira segura.
 
-**Hack The Fucking System**
+- **🔌 API Pública para Empresas**: Empresas podem usar a API do Seccreto para integrar serviços e catálogos de produtos de forma segura e com proteção criptográfica pós-quântica, mantendo o controle sobre as interações.
 
-- Decentralization: Use of P2P networks or blockchain to store data in a distributed manner, reducing the risk of centralization and increasing resilience. So unfortunately, even if we wanted to, we can't be completely offline.
+### 🛡️ **Controle Total de Dados**
 
-- Distributed Key Servers: Decentralized management of encryption keys, ensuring that no central entity can access user data.
+- **🔑 Chaves de Criptografia no Dispositivo do Usuário**: As chaves são geradas e armazenadas localmente, utilizando algoritmos pós-quânticos, garantindo que a plataforma não tenha acesso aos dados ou às chaves de criptografia dos usuários.
 
-**Keep Control**
+- **🗂️ Propriedade e Controle de Dados**: Os usuários mantêm controle total sobre suas informações, decidindo o que compartilhar, com quem e como, com a proteção adicional da criptografia pós-quântica.
 
-- Data Ownership: Users have full control over their data, being able to decide what to share, with whom, and how.
+- **🔄 Portabilidade de Dados**: Os usuários podem exportar e importar seus dados de forma segura, utilizando a criptografia avançada do PQXMP, mantendo a flexibilidade e o controle sobre suas informações.
 
-- Data Portability: Facilitate the export and import of data securely.
+---
 
-Much... Much More... Wait for us... This is just an answer.
+## 🚀 **Muito Mais Vem Por Aí...**
+
+Com o PQXMP e a criptografia pós-quântica, o Seccreto está preparado para o futuro. Estamos apenas no começo. Prepare-se para uma nova era de redes sociais onde a privacidade é prioridade.
+
+---
+
+
+# 🦅 **O Corvo e a Chave: O Significado do Logo do Seccreto**
+
+---
+
+O logo do **Seccreto** apresenta um **corvo** incorporando uma **chave**, simbolizando a essência da plataforma em dois aspectos fundamentais: **segurança** e **privacidade**.
+
+### 1. **O Corvo**
+   - Na mitologia e no simbolismo cultural, o corvo é frequentemente visto como um **guardião dos segredos** e um **mensageiro**. Ele representa a sabedoria, a astúcia e a habilidade de **navegar entre mundos** e **proteger informações preciosas**.
+   - No contexto do Seccreto, o corvo simboliza o compromisso com a **privacidade dos usuários**, garantindo que seus segredos e informações permaneçam ocultos para todos, exceto para aqueles com quem eles escolhem compartilhar.
+
+### 2. **A Chave**
+   - A chave, em muitas culturas, é um **símbolo de acesso** e **proteção**. Ela representa a capacidade de **controlar** quem pode entrar e acessar determinados espaços ou informações.
+   - No Seccreto, a chave simboliza a **criptografia** e a **autonomia** dos usuários. Eles têm o controle exclusivo sobre suas "chaves", ou seja, suas informações e seus dados, assegurando que apenas eles possam decidir quem terá acesso.
+
+---
+
+Juntos, o corvo e a chave formam uma imagem poderosa que transmite a missão do Seccreto: ser um **guardião confiável**, proporcionando um espaço onde as informações são mantidas seguras e acessíveis apenas àqueles que possuem a permissão. Esse logo reflete o equilíbrio entre a **discrição** e a **segurança**, elementos centrais da rede social mais privativa e segura do Brasil.
+
+---
 
