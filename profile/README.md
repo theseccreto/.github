@@ -3,7 +3,7 @@
 
 
 
-# 🌐 **Seccreto - Your voice, secured.
+# 🐦‍⬛ **Seccreto - Your voice, secured.**
 
 ---
 
