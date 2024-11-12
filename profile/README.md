@@ -3,13 +3,13 @@
 
 
 
-# 🌐 **Seccreto - Um aplicativo de mensagens razoavelmente seguro**
+# 🌐 **Seccreto - Your voice, secured.
 
 ---
 
 ## 📝 **Visão Geral**
 
-**Seccreto** é uma rede social brasileira criada para aqueles que valorizam a privacidade e a segurança de seus dados. Utilizando criptografia **pós-quântica** em todas as suas funcionalidades, o Seccreto é construído com o protocolo proprietário **PQXMP** (Post-Quantum Extensible Messaging Protocol), garantindo segurança contra ameaças futuras de computação quântica. A plataforma foi desenvolvida para usuários que desejam conversar sobre tópicos relevantes ou explorar novas conexões de forma segura e anônima, personalizando suas experiências com um alto nível de segurança.
+**Seccreto** é um aplicativo de mensagens criado para aqueles que valorizam a privacidade e a segurança de seus dados. Utilizando criptografia **pós-quântica** em todas as suas funcionalidades, o Seccreto é construído com o protocolo proprietário **PQXMP** (Post-Quantum Extensible Messaging Protocol), garantindo segurança contra ameaças futuras de computação quântica. A plataforma foi desenvolvida para usuários que desejam conversar sobre tópicos relevantes ou explorar novas conexões de forma segura e anônima, personalizando suas experiências com um alto nível de segurança.
 
 ---
 
@@ -24,14 +24,7 @@
 - **⏰ Mensagens Autodestrutivas**: Possibilidade de configurar um tempo para que as mensagens sejam automaticamente deletadas após a leitura, com proteção criptográfica avançada.
 
 - **💬 Mensagens Seguras e Criptografadas**: Envio de textos, imagens, vídeos e documentos, todos protegidos por criptografia pós-quântica, com as chaves armazenadas localmente no dispositivo do usuário.
-
-### 🏢 **Funcionalidades Empresariais**
-
-- **🤖 Chatbots Personalizados para Empresas**: Empresas podem criar chatbots interativos que utilizam criptografia pós-quântica para garantir que todas as interações e transações sejam seguras e privadas.
-
-- **🎥 Perfis Empresariais com Vídeos Curtos**: Perfis empresariais podem exibir vídeos curtos de produtos, utilizando o protocolo PQXMP para garantir que as interações e transações, como reservas ou compras, ocorram de maneira segura.
-
-- **🔌 API Pública para Empresas**: Empresas podem usar a API do Seccreto para integrar serviços e catálogos de produtos de forma segura e com proteção criptográfica pós-quântica, mantendo o controle sobre as interações.
+  
 
 ### 🛡️ **Controle Total de Dados**
 
@@ -43,9 +36,9 @@
 
 ---
 
-## 🚀 **Muito Mais Vem Por Aí...**
 
-Com o PQXMP e a criptografia pós-quântica, o Seccreto está preparado para o futuro. Estamos apenas no começo. Prepare-se para uma nova era de redes sociais onde a privacidade é prioridade.
+![Designer-15](https://github.com/user-attachments/assets/a38f2aaa-b3d9-4531-8a1a-c571440b5666)
+
 
 ---
 
